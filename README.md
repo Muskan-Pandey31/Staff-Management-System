@@ -23,7 +23,7 @@ This project demonstrates core web development concepts such as RESTful APIs, da
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- MySQL Database (or H2 for demo)
+- PostgreSQL Database 
 
 **Frontend:**
 - HTML  
