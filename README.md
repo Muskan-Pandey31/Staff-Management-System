@@ -32,5 +32,6 @@ This project demonstrates core web development concepts such as RESTful APIs, da
 
 ---
 
-## 📁 Project Structure
+
+
 
